@@ -1,2 +1,39 @@
 # yunusilkweb
 yunusun ilk yaptığı site
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Benim İlk Web Sitem</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+        }
+        .kutu {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            width: 300px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="kutu">
+        <h1>Merhaba 👋</h1>
+        <p>Bu site GitHub Pages ile yayınlandı.</p>
+        <p>Yapan: Yunus</p>
+    </div>
+
+</body>
+<
